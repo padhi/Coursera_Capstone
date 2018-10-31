@@ -2,7 +2,7 @@
 
 ## Introduction
 
- Location search has always been a huge headache, especially for business entrepreneurs  who is looking for finding the right location to start a new business specially, in dense urban areas where venues and merchants riddle every block.
+ Location search has always been a huge headache, especially for business entrepreneurs  who is looking for finding the right location to start a new business in dense urban areas where venues and merchants riddle every block.
  GPS might’ve solved the hassle of searching for nearby locations, but what about searching for locations that you’re not close to? For this, Google, Yelp, and other Foursquare competitors have continued to rely on user data entry (zip codes, street addresses) to return results. But Foursquare’s new Explore feature provides a visual solution to the problem, giving users the ability to search by vicinity with just a few quick finger taps.
 
 ## Business Problem
@@ -16,7 +16,7 @@ Business Entrepreneurs, Restaurant owners, Fitness Trainers, Retail store owners
 
 ## Solution
 
-### Building a python application using "Foursquare" developers API
+### Building a python application using "Foursquare" developers API 
 
 Based on GPS and other location signals, Foursquare could tell what business a user was visiting -- something no other company could do as reliably. That was a powerful tool, and it could be used to serve other businesses.
 
