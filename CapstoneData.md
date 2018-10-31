@@ -10,7 +10,7 @@ Format: ![Alt Text](url)
 
 ## Foursquare Venue related data
 
-![GitHub Logo](/images/postalCodes.png)
+![GitHub Logo](/images/foursquareVenues.png)
 Format: ![Alt Text](url)
 
-We will use all the neighborhood longitude and latitude to pull the nearby venues, their user ratings etc.
+We will use all the neighborhood longitude and latitude to pull the nearby venues, their user ratings.
